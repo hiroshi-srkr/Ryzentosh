@@ -48,7 +48,7 @@ SMBIOS値はご自身で生成してください。config.plistにはダミー�
 - [intelBluetoothFirmware.kext](https://github.com/OpenIntelWireless/IntelBluetoothFirmware/releases)
 - [IntelBTPatcher.kext](https://github.com/OpenIntelWireless/IntelBluetoothFirmware/releases)
 - [Lilu.kext](https://github.com/acidanthera/lilu/releases)
-- [NVMeFix.kext]
+- [NVMeFix.kext](https://github.com/acidanthera/NVMeFix/releases)
 - [RealtekRTL8111.kext](https://github.com/Mieze/RTL8111_driver_for_OS_X/releases)
 - [RestrictEvents](https://github.com/acidanthera/RestrictEvents/releases)
 - [SMCRadeonSensors.kext](https://github.com/ChefKissInc/SMCRadeonSensors/releases)
